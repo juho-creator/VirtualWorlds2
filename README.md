@@ -15,7 +15,8 @@ This is an assignment on virtual world taught by professor Kang Hoon Lee.
 
 
 ## Requirement Fulfillment
-![image](https://github.com/juho-creator/VirtualWorlds/assets/72856990/c738694b-9505-43f3-ad22-033e68729204)
+![image](https://github.com/juho-creator/VirtualWorlds2/assets/72856990/4d29b306-cd1b-4cbd-9098-7e7e6891e990)
+
 </br></br>
 
 

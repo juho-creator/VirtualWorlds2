@@ -9,7 +9,9 @@ This is an assignment on virtual world taught by professor Kang Hoon Lee.
 
 
 # Demonstration Video
-
+[![fNtsABoj3pc-MQ (1)](https://github.com/juho-creator/VirtualWorlds2/assets/72856990/64044266-0ba9-4cc9-a314-f71fe9018937)
+](https://www.youtube.com/watch?v=fNtsABoj3pc
+)
 </br></br>
 
 
@@ -37,7 +39,6 @@ Prevent animal from spawning at location where there is another existing animal
 - Vectors
 - Transformations
 - Dynamic object spawning
-- Refering
 
 </br></br>
 
